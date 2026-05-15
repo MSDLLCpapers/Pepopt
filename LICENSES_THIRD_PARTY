@@ -1,0 +1,139 @@
+This application uses third-party libraries which may be distributed under different licenses.
+We have attempted to list all of these third party libraries and their licenses below.
+You must agree to the terms of these licenses, in addition to the application's source code license, in order to use this software.
+
+--------------------------------------------------
+Third party libraries listed by License type
+[Format: Name (pip: package) - URL]
+--------------------------------------------------
+
+Apache Software License, Version 2.0 (http://opensource.org/licenses/apache2.0)
+  * arrow (pip: arrow) - https://pypi.org/project/arrow/
+  * asttokens (pip: asttokens) - https://github.com/gristlabs/asttokens
+  * bleach (pip: bleach) - https://github.com/mozilla/bleach
+  * json5 (pip: json5) - https://pypi.org/project/json5/
+  * llvmlite (pip: llvmlite) - http://llvmlite.readthedocs.io
+  * packaging (pip: packaging) - https://pypi.org/project/packaging/
+  * prometheus_client (pip: prometheus-client) - https://github.com/prometheus/client_python
+  * requests (pip: requests) - https://requests.readthedocs.io
+  * tornado (pip: tornado) - http://www.tornadoweb.org/
+  * tzdata (pip: tzdata) - https://github.com/python/tzdata
+  * websocket-client (pip: websocket-client) - https://github.com/websocket-client/websocket-client.git
+
+BSD License (http://www.opensource.org/licenses/BSD-3-Clause)
+  * babel (pip: babel) - https://babel.pocoo.org/
+  * cloudpickle (pip: cloudpickle) - https://github.com/cloudpipe/cloudpickle
+  * comm (pip: comm) - https://github.com/ipython/comm
+  * contourpy (pip: contourpy) - https://github.com/contourpy/contourpy
+  * cycler (pip: cycler) - https://pypi.org/project/cycler/
+  * fastjsonschema (pip: fastjsonschema) - https://github.com/horejsek/python-fastjsonschema
+  * httpcore (pip: httpcore) - https://www.encode.io/httpcore/
+  * httpx (pip: httpx) - https://github.com/encode/httpx
+  * idna (pip: idna) - https://pypi.org/project/idna/
+  * ipykernel (pip: ipykernel) - https://ipython.org
+  * ipython (pip: ipython) - https://ipython.org
+  * ipython_pygments_lexers (pip: ipython-pygments-lexers) - https://pypi.org/project/ipython-pygments-lexers/
+  * ipywidgets (pip: ipywidgets) - http://jupyter.org
+  * Jinja2 (pip: jinja2) - https://pypi.org/project/jinja2/
+  * joblib (pip: joblib) - https://joblib.readthedocs.io
+  * jsonpointer (pip: jsonpointer) - https://github.com/stefankoegl/python-json-pointer
+  * jupyter (pip: jupyter) - https://jupyter.org
+  * jupyter-console (pip: jupyter-console) - https://jupyter.org
+  * jupyter-events (pip: jupyter-events) - http://jupyter.org
+  * jupyter-lsp (pip: jupyter-lsp) - https://pypi.org/project/jupyter-lsp/
+  * jupyter_client (pip: jupyter-client) - https://jupyter.org
+  * jupyter_core (pip: jupyter-core) - https://jupyter.org
+  * jupyter_server (pip: jupyter-server) - https://jupyter-server.readthedocs.io
+  * jupyter_server_terminals (pip: jupyter-server-terminals) - https://jupyter.org
+  * jupyterlab (pip: jupyterlab) - https://jupyter.org
+  * jupyterlab_pygments (pip: jupyterlab-pygments) - https://github.com/jupyterlab/jupyterlab_pygments
+  * jupyterlab_server (pip: jupyterlab-server) - https://jupyterlab-server.readthedocs.io
+  * jupyterlab_widgets (pip: jupyterlab-widgets) - https://github.com/jupyter-widgets/ipywidgets
+  * kiwisolver (pip: kiwisolver) - https://pypi.org/project/kiwisolver/
+  * MarkupSafe (pip: markupsafe) - https://pypi.org/project/markupsafe/
+  * matplotlib-inline (pip: matplotlib-inline) - https://github.com/ipython/matplotlib-inline
+  * mistune (pip: mistune) - https://pypi.org/project/mistune/
+  * nbclient (pip: nbclient) - https://jupyter.org
+  * nbconvert (pip: nbconvert) - https://jupyter.org
+  * nbformat (pip: nbformat) - https://jupyter.org
+  * nest-asyncio (pip: nest-asyncio) - https://github.com/erdewit/nest_asyncio
+  * notebook (pip: notebook) - https://github.com/jupyter/notebook
+  * notebook_shim (pip: notebook-shim) - https://pypi.org/project/notebook-shim/
+  * numba (pip: numba) - https://numba.pydata.org
+  * pandocfilters (pip: pandocfilters) - http://github.com/jgm/pandocfilters
+  * prompt_toolkit (pip: prompt-toolkit) - https://github.com/prompt-toolkit/python-prompt-toolkit
+  * psutil (pip: psutil) - https://github.com/giampaolo/psutil
+  * pycparser (pip: pycparser) - https://github.com/eliben/pycparser
+  * python-dateutil (pip: python-dateutil) - https://github.com/dateutil/dateutil
+  * pyzmq (pip: pyzmq) - https://pyzmq.readthedocs.org
+  * scikit-learn (pip: scikit-learn) - https://pypi.org/project/scikit-learn/
+  * seaborn (pip: seaborn) - https://pypi.org/project/seaborn/
+  * Send2Trash (pip: send2trash) - https://github.com/arsenetar/send2trash
+  * threadpoolctl (pip: threadpoolctl) - https://github.com/joblib/threadpoolctl
+  * tinycss2 (pip: tinycss2) - https://www.courtbouillon.org/tinycss2
+  * traitlets (pip: traitlets) - https://github.com/ipython/traitlets
+  * webcolors (pip: webcolors) - https://pypi.org/project/webcolors/
+  * webencodings (pip: webencodings) - https://github.com/SimonSapin/python-webencodings
+  * widgetsnbextension (pip: widgetsnbextension) - http://jupyter.org
+
+BSD 2-Clause License (http://www.opensource.org/licenses/BSD-2-Clause)
+  * decorator (pip: decorator) - https://pypi.org/project/decorator/
+  * Pygments (pip: pygments) - https://pygments.org
+  * python-json-logger (pip: python-json-logger) - https://nhairs.github.io/python-json-logger
+  * terminado (pip: terminado) - https://github.com/jupyter/terminado
+
+MIT License (http://www.opensource.org/licenses/MIT)
+  * anyio (pip: anyio) - https://pypi.org/project/anyio/
+  * argon2-cffi (pip: argon2-cffi) - https://pypi.org/project/argon2-cffi/
+  * argon2-cffi-bindings (pip: argon2-cffi-bindings) - https://pypi.org/project/argon2-cffi-bindings/
+  * async-lru (pip: async-lru) - https://github.com/aio-libs/async-lru
+  * attrs (pip: attrs) - https://pypi.org/project/attrs/
+  * beautifulsoup4 (pip: beautifulsoup4) - https://www.crummy.com/software/BeautifulSoup/bs4/
+  * cffi (pip: cffi) - https://pypi.org/project/cffi/
+  * charset-normalizer (pip: charset-normalizer) - https://pypi.org/project/charset-normalizer/
+  * debugpy (pip: debugpy) - https://aka.ms/debugpy
+  * et_xmlfile (pip: et-xmlfile) - https://foss.heptapod.net/openpyxl/et_xmlfile
+  * executing (pip: executing) - https://github.com/alexmojaki/executing
+  * fonttools (pip: fonttools) - http://github.com/fonttools/fonttools
+  * h11 (pip: h11) - https://github.com/python-hyper/h11
+  * jedi (pip: jedi) - https://github.com/davidhalter/jedi
+  * jsonschema (pip: jsonschema) - https://github.com/python-jsonschema/jsonschema
+  * jsonschema-specifications (pip: jsonschema-specifications) - https://github.com/python-jsonschema/jsonschema-specifications
+  * lark (pip: lark) - https://github.com/lark-parser/lark
+  * openpyxl (pip: openpyxl) - https://openpyxl.readthedocs.io
+  * pandas (pip: pandas) - https://pypi.org/project/pandas/
+  * parso (pip: parso) - https://github.com/davidhalter/parso
+  * pillow (pip: pillow) - https://python-pillow.github.io
+  * platformdirs (pip: platformdirs) - https://github.com/tox-dev/platformdirs
+  * pure_eval (pip: pure-eval) - http://github.com/alexmojaki/pure_eval
+  * pyparsing (pip: pyparsing) - https://github.com/pyparsing/pyparsing/
+  * PyYAML (pip: pyyaml) - https://pyyaml.org/
+  * referencing (pip: referencing) - https://github.com/python-jsonschema/referencing
+  * rfc3339-validator (pip: rfc3339-validator) - https://github.com/naimetti/rfc3339-validator
+  * rfc3986-validator (pip: rfc3986-validator) - https://github.com/naimetti/rfc3986-validator
+  * rpds-py (pip: rpds-py) - https://github.com/crate-py/rpds
+  * shap (pip: shap) - https://pypi.org/project/shap/
+  * six (pip: six) - https://github.com/benjaminp/six
+  * slicer (pip: slicer) - https://github.com/interpretml/slicer
+  * soupsieve (pip: soupsieve) - https://github.com/facelessuser/soupsieve
+  * stack-data (pip: stack-data) - http://github.com/alexmojaki/stack_data
+  * tqdm (pip: tqdm) - https://pypi.org/project/tqdm/
+  * urllib3 (pip: urllib3) - https://pypi.org/project/urllib3/
+  * wcwidth (pip: wcwidth) - https://github.com/jquast/wcwidth
+
+Mozilla Public License, Version 2.0 (http://www.opensource.org/licenses/MPL-2.0)
+  * certifi (pip: certifi) - https://github.com/certifi/python-certifi
+  * fqdn (pip: fqdn) - https://github.com/ypcrts/fqdn
+
+Python Software Foundation License (Python-2.0)
+  * defusedxml (pip: defusedxml) - https://github.com/tiran/defusedxml
+  * typing_extensions (pip: typing-extensions) - https://pypi.org/project/typing-extensions/
+
+ISC License (https://opensource.org/licenses/ISC)
+  * isoduration (pip: isoduration) - https://github.com/bolsote/isoduration
+  * pexpect (pip: pexpect) - https://pexpect.readthedocs.io/
+  * ptyprocess (pip: ptyprocess) - https://github.com/pexpect/ptyprocess
+
+----
+NOTE: Some packages may bundle additional assets (e.g., JavaScript/CSS) that carry their own licenses. When present, those licenses are typically copied into the source tree next to the bundled assets.
+----
